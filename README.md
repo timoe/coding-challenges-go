@@ -10,6 +10,7 @@ Challenges are solved in Golang. It helps to have defined problems when I'm expl
 
 - [Clone a graph](clone-graph/clone-graph.md)
 - [Two sum](two-sum/twosum.md)
+- [Queues](queue/queue.md)
 
 ## My profiles on
 
