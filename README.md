@@ -9,7 +9,7 @@ Challenges are solved in Golang. It helps to have defined problems when I'm expl
 ## Challenges
 
 - [Clone a graph](clone-graph/clone-graph.md)
-
+- [Two sum](two-sum/twosum.md)
 
 ## My profiles on
 
