@@ -12,6 +12,7 @@ Challenges are solved in Golang. It helps to have defined problems when I'm expl
 - [Two sum](two-sum/twosum.md)
 - [Queues](queue/queue.md)
 - [Sum two lists](add-two-nums/two-nums-from-list.md)
+- [Median of two sorted arrays](median-sorted-array/median-sorted-array.md)
 
 ## My profiles on
 
